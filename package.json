@@ -1,0 +1,17 @@
+{
+  "name": "ServerStats",
+  "version": "1.0.3",
+  "description": "Server Statistics Bot",
+  "main": "app.js",
+  "keywords": [
+    "Statistics",
+    "Discord Bot",
+    "Server Statistics"
+  ],
+  "author": "trashbag#0001",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "util": "^0.10.3"
+  }
+}
